@@ -1,7 +1,7 @@
 [
 	{
     id: "1",
-    image: "",
+    image: "https://www.jolie-bobine.fr/wp-content/uploads/2021/06/cowboy-bebop-e1623175068614.jpg",
     question: "Bu anime karakteri hangi animeden?",
     optionOne: "Fullmetal Alchemist",
     optionTwo: "Cowboy Bebop",
@@ -11,7 +11,7 @@
 	},
 	{
     id: "2",
-    image: "",
+    image: "https://animeanime.global/wp-content/uploads/2021/07/420155.jpg",
     question: "Bu anime karakteri hangi animeden?",
     optionOne: "Eden of the East",
     optionTwo: "Shinging Tears X Wind",
@@ -21,7 +21,7 @@
 	},
 	{
     id: "3",
-    image: "",
+    image: "https://m.media-amazon.com/images/M/MV5BNmZhNDlhZDEtZDUzZi00MGE0LThiNzAtN2I5NjIxMWVlOWEyXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_.jpg",
     question: "Bu anime karakteri hangi animeden?",
     optionOne: "Charlotte",
     optionTwo: "Guilty Cown",
@@ -31,7 +31,7 @@
 	},
 	{
     id: "4",
-    image: "",
+    image: "https://i.pinimg.com/originals/97/05/dc/9705dc84e19d4d8ed1bf5980f135af49.jpg",
     question: "Bu anime karakteri hangi animeden?",
     optionOne: "Monster",
     optionTwo: "Elfen Lied",
