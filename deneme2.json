@@ -1,0 +1,100 @@
+{
+    "id": "1",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fc02c0f06699.jpg",
+    "question": "Mayuri'nin en sevdiği hobisi nedir?",
+    "optionOne": "Örgü örmek",
+    "optionTwo": "Zamanda yolculuk yapmak",
+    "optionTree": "Yemek yapmak",
+    "optionFour": "Cosplay ve kontüm yapımı",
+    "correctAnswer": "4"
+	},
+	{
+    "id": "2",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fc02d3af0ee4.jpg",
+    "question": "Bir D-Mail'de 120 saniye kaç gündür?",
+    "optionOne": "6",
+    "optionTwo": "7",
+    "optionTree": "5",
+    "optionFour": "4",
+    "correctAnswer": "3"
+	},
+	{
+    "id": "3",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fc02e5eae0a4.jpg",
+    "question": "Rintaro, Moeka'ya hangi takma adı verdi?",
+    "optionOne": "Nyannyan",
+    "optionTwo": "Parlayan Parmak",
+    "optionTree": "Süper Haker",
+    "optionFour": "Christina",
+    "correctAnswer": "2"
+	},
+	{
+    "id": "4",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fc02f83f026b.jpg",
+    "question": "Suzuha hangi yıldan geldi?",
+    "optionOne": "2036",
+    "optionTwo": "2032",
+    "optionTree": "2034",
+    "optionFour": "2038",
+    "correctAnswer": "1"
+	},
+	{
+    "id": "5",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fc030fe1caf2.jpg",
+    "question": "Google arama motorunun farklı bir adı vardı. Hangisiydi?",
+    "optionOne": "Doogle",
+    "optionTwo": "Gooble",
+    "optionTree": "Goodle",
+    "optionFour": "Boogle",
+    "correctAnswer": "3"
+	},
+	{
+    "id": "6",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fc03324caad2.jpg",
+    "question": "Rintaro'nun ev sahibinin adı nedir?",
+    "optionOne": "Braun",
+    "optionTwo": "Itaru",
+    "optionTree": "Nae",
+    "optionFour": "Bryan",
+    "correctAnswer": "1"
+	},
+	{
+    "id": "7",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fc033805d929.jpg",
+    "question": "Luka'nın kılıcının adı nedir?",
+    "optionOne": "Samehada",
+    "optionTwo": "Di Sword",
+    "optionTree": "Semirames",
+    "optionFour": "Samidare",
+    "correctAnswer": "4"
+	},
+  {
+    "id": "8",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fc0355e9f989.jpg",
+    "question": "Lab üyeleri rozetinde ne yazıyor?",
+    "optionOne": "FOAMHUSK 2011",
+    "optionTwo": "OSHMKUFA 2010",
+    "optionTree": "OSHMKUFA 2011",
+    "optionFour": "FOAMHUSK 2010",
+    "correctAnswer": "2"
+	},
+   {
+    "id": "9",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fc036571e07f.jpg",
+    "question": "Lab üyesi #005 kimdir?",
+    "optionOne": "Rukako",
+    "optionTwo": "Moeka",
+    "optionTree": "Suzuha",
+    "optionFour": "Feyris",
+    "correctAnswer": "2"
+	},
+   {
+    "id": "10",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fc03745aeb12.jpg",
+    "question": "Tokyo Steins'in hangi bölgesinde, kapı yer alıyor?",
+    "optionOne": "Shinjuku",
+    "optionTwo": "Harajuku",
+    "optionTree": "Akihabara",
+    "optionFour": "Shibuya",
+    "correctAnswer": "3"
+	}
