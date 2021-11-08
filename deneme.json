@@ -1,0 +1,100 @@
+{
+    "id": "1",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd5ddeaf4f0.jpg",
+    "question": "Gintoki pilavın üzerine ne koymayı seviyor?",
+    "optionOne": "Yumurta",
+    "optionTwo": "Furikake",
+    "optionTree": "Et",
+    "optionFour": "Kırmızı Fasulye",
+    "correctAnswer": "4"
+	},
+	{
+    "id": "2",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd579ebbe55.jpg",
+    "question": "Gintoki, Otose ile nerede tanıştı?",
+    "optionOne": "Mezarlık",
+    "optionTwo": "Park",
+    "optionTree": "Market",
+    "optionFour": "Bar",
+    "correctAnswer": "1"
+	},
+	{
+    "id": "3",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd5989adcfb.jpg",
+    "question": "Hırsız olabilirim ama sadece kalpleri çalıyorum" bu cümleyi kim söylemiştir?",
+    "optionOne": "Kondo Isao",
+    "optionTwo": "Seita",
+    "optionTree": "Catherine",
+    "optionFour": "Kagura",
+    "correctAnswer": "1"
+	},
+	{
+    "id": "4",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd5a8755cb6.jpg",
+    "question": "Katsura ve Gintoki bir kediye dönüştüğünde Kabuki bölgesinin patron kedisi kimdi?",
+    "optionOne": "Inoue",
+    "optionTwo": "Houcichi",
+    "optionTree": "Saburu",
+    "optionFour": "Kotarou",
+    "correctAnswer": "2"
+	},
+	{
+    "id": "5",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd5c1adafbf.jpg",
+    "question": "Kagura'nın babası kimdir?",
+    "optionOne": "Yuki",
+    "optionTwo": "Nubi",
+    "optionTree": "Umibozu",
+    "optionFour": "Amibo",
+    "correctAnswer": "3"
+	},
+	{
+    "id": "6",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd5e412018f.jpg",
+    "question": "Kagura ve Gintoki nasıl tanıştı?",
+    "optionOne": "Onu fidye için esir aldı",
+    "optionTwo": "Ona bir şemsiye aldı",
+    "optionTree": "Onu silahla vurdu",
+    "optionFour": "Onu motosikletle vurdu",
+    "correctAnswer": "4"
+	},
+	{
+    "id": "7",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd5f094f4f6.jpg",
+    "question": "52-53. Bölümlerde ki "Gintoki’nin çocuğu”nun adı nedir?",
+    "optionOne": "Shiroyasha",
+    "optionTwo": "Kanshiro",
+    "optionTree": "Hakubei",
+    "optionFour": "Sakata-chan",
+    "correctAnswer": "2"
+	},
+  {
+    "id": "8",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd6071e611d.jpg",
+    "question": "Katsura, Kagura'ya ne diye hitap ediyor?",
+    "optionOne": "Lider",
+    "optionTwo": "Usta",
+    "optionTree": "Patron",
+    "optionFour": "Öğretmen",
+    "correctAnswer": "1"
+	},
+   {
+    "id": "9",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd60f016340.jpg",
+    "question": "Tagasugi kime karşı kişisel bir kin besliyor?",
+    "optionOne": "Katsura Kotarou",
+    "optionTwo": "Sakamato Tatsuma",
+    "optionTree": "Sakata Gintoki",
+    "optionFour": "Yoshida Shouyou",
+    "correctAnswer": "3"
+	},
+   {
+    "id": "10",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd627bb2aa6.jpg",
+    "question": "Gintoki'yi kim bir süre takip ediyor?",
+    "optionOne": "Tsukoyo",
+    "optionTwo": "Kondo Isao",
+    "optionTree": "Shimura Tae",
+    "optionFour": "Sarutobi Ayame",
+    "correctAnswer": "4"
+	}
