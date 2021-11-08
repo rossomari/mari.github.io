@@ -1,102 +1,105 @@
-[
+{"prev_page":"null",
+  "next_page":"https://https://test.satoshitr.com/deneme.json",
+  "data":[
 	{
-    id: "1",
-    image: "https://www.jolie-bobine.fr/wp-content/uploads/2021/06/cowboy-bebop-e1623175068614.jpg",
-    question: "Bu anime karakteri hangi animeden?",
-    optionOne: "Fullmetal Alchemist",
-    optionTwo: "Cowboy Bebop",
-    optionTree: "Space Dandy",
-    optionFour: "Simoun",
-    correctAnswer: "2"
+    "id": "1",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_601469743f4fc.jpg",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "Fullmetal Alchemist",
+    "optionTwo": "Cowboy Bebop",
+    "optionTree": "Space Dandy",
+    "optionFour": "Simoun",
+    "correctAnswer": "2"
 	},
 	{
-    id: "2",
-    image: "https://animeanime.global/wp-content/uploads/2021/07/420155.jpg",
-    question: "Bu anime karakteri hangi animeden?",
-    optionOne: "Eden of the East",
-    optionTwo: "Shinging Tears X Wind",
-    optionTree: "When the Cry",
-    optionFour: "Diabolik Lovers",
-    correctAnswer: "3"
+    "id": "2",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_60146a8b2b08b.jpg",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "Eden of the East",
+    "optionTwo": "Shinging Tears X Wind",
+    "optionTree": "When the Cry",
+    "optionFour": "Diabolik Lovers",
+    "correctAnswer": "3"
 	},
 	{
-    id: "3",
-    image: "https://m.media-amazon.com/images/M/MV5BNmZhNDlhZDEtZDUzZi00MGE0LThiNzAtN2I5NjIxMWVlOWEyXkEyXkFqcGdeQXVyNTc0NjY1ODk@._V1_.jpg",
-    question: "Bu anime karakteri hangi animeden?",
-    optionOne: "Charlotte",
-    optionTwo: "Guilty Cown",
-    optionTree: "Yuki Yuna is Hero",
-    optionFour: "Angel Beats",
-    correctAnswer: "4"
+    "id": "3",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_60146b2c46307.jpg",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "Charlotte",
+    "optionTwo": "Guilty Cown",
+    "optionTree": "Yuki Yuna is Hero",
+    "optionFour": "Angel Beats",
+    "correctAnswer": "4"
 	},
 	{
-    id: "4",
-    image: "https://i.pinimg.com/originals/97/05/dc/9705dc84e19d4d8ed1bf5980f135af49.jpg",
-    question: "Bu anime karakteri hangi animeden?",
-    optionOne: "Monster",
-    optionTwo: "Elfen Lied",
-    optionTree: "Black Jack",
-    optionFour: "Fullmetal Alchemist",
-    correctAnswer: "1"
+    "id": "4",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_60146ca596d14.jpg",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "Monster",
+    "optionTwo": "Elfen Lied",
+    "optionTree": "Black Jack",
+    "optionFour": "Fullmetal Alchemist",
+    "correctAnswer": "1"
 	},
 	{
-    id: "5",
-    image: "",
-    question: "Bu anime karakteri hangi animeden?",
-    optionOne: "Soul Eater",
-    optionTwo: "Blue Exorcicst",
-    optionTree: "Elfen Lied",
-    optionFour: "Brynhildr in the Darkness",
-    correctAnswer: "3"
+    "id": "5",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/img_60146f68b5b168-33965305-55608986.gif",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "Soul Eater",
+    "optionTwo": "Blue Exorcicst",
+    "optionTree": "Elfen Lied",
+    "optionFour": "Brynhildr in the Darkness",
+    "correctAnswer": "3"
 	},
 	{
-    id: "6",
-    image: "",
-    question: "Bu anime karakteri hangi animeden?",
-    optionOne: "Occult Academy",
-    optionTwo: "Rosario Vampire",
-    optionTree: "Maria Holic",
-    optionFour: "Sword Art Online",
-    correctAnswer: "2"
+    "id": "6",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_60147e7c6c1b3.jpg",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "Occult Academy",
+    "optionTwo": "Rosario Vampire",
+    "optionTree": "Maria Holic",
+    "optionFour": "Sword Art Online",
+    "correctAnswer": "2"
 	},
 	{
-    id: "7",
-    image: "",
-    question: "Bu anime karakteri hangi animeden?",
-    optionOne: "Noragami",
-    optionTwo: "Sailor Moon",
-    optionTree: "Dragon Ball",
-    optionFour: "Fairy Tail",
-    correctAnswer: "4"
+    "id": "7",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_60147f0104842.jpg",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "Noragami",
+    "optionTwo": "Sailor Moon",
+    "optionTree": "Dragon Ball",
+    "optionFour": "Fairy Tail",
+    "correctAnswer": "4"
 	},
   {
-    id: "8",
-    image: "",
-    question: "Bu anime karakteri hangi animeden?",
-    optionOne: "My Hero Academia",
-    optionTwo: "Hunter X Hunter",
-    optionTree: "Bleach",
-    optionFour: "High School DxD",
-    correctAnswer: "2"
+    "id": "8",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_601480b773503.jpg",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "My Hero Academia",
+    "optionTwo": "Hunter X Hunter",
+    "optionTree": "Bleach",
+    "optionFour": "High School DxD",
+    "correctAnswer": "2"
 	},
    {
-    id: "9",
-    image: "",
-    question: "Bu anime karakteri hangi animeden?",
-    optionOne: "Date a Live",
-    optionTwo: "Re:Zero - Starting Life in Other World",
-    optionTree: "	No Game No Life",
-    optionFour: "Swort Art Online",
-    correctAnswer: "3"
+    "id": "9",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_6015c86aaa8fd.jpg",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "Date a Live",
+    "optionTwo": "Re:Zero - Starting Life in Other World",
+    "optionTree": "No Game No Life",
+    "optionFour": "Swort Art Online",
+    "correctAnswer": "3"
 	},
    {
-    id: "10",
-    image: "",
-    question: "Bu anime karakteri hangi animeden?",
-    optionOne: "Black Lagon",
-    optionTwo: "Dragon Ball",
-    optionTree: "Tokyo ghoul",
-    optionFour: "Naruto",
-    correctAnswer: "4"
+    "id": "10",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_601481a843184.jpg",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "Black Lagon",
+    "optionTwo": "Dragon Ball",
+    "optionTree": "Tokyo ghoul",
+    "optionFour": "Naruto",
+    "correctAnswer": "4"
 	}
-]
+      ]
+}
