@@ -1,4 +1,6 @@
-
+{"prev_page":"null",
+  "next_page":"https://raw.githubusercontent.com/rossomari/mari.github.io/main/deneme.json",
+  "data":[
 	{
     "id": "1",
     "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_601469743f4fc.jpg",
@@ -99,4 +101,5 @@
     "optionFour": "Naruto",
     "correctAnswer": "4"
 	}
-
+]
+}
