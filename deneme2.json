@@ -1,3 +1,6 @@
+{"prev_page":"https://github.com/rossomari/mari.github.io/main/deneme2.json",
+  "next_page":"null",
+  "data":[
 {
     "id": "1",
     "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fc02c0f06699.jpg",
@@ -98,3 +101,5 @@
     "optionFour": "Shibuya",
     "correctAnswer": "3"
 	}
+	  ]
+}
