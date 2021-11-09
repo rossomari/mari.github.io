@@ -1,3 +1,6 @@
+{"prev_page":"https://github.com/rossomari/mari.github.io/blob/main/deneme.json",
+  "next_page":"https://raw.githubusercontent.com/rossomari/mari.github.io/main/deneme2.json",
+  "data":[
 {
     "id": "1",
     "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd5ddeaf4f0.jpg",
@@ -98,3 +101,5 @@
     "optionFour": "Sarutobi Ayame",
     "correctAnswer": "4"
 	}
+]
+}
