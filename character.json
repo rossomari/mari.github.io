@@ -2,10 +2,8 @@
   "next_page":"https://raw.githubusercontent.com/rossomari/mari.github.io/main/deneme.json",
   "data":[
 	{
-	 "catId":"1",
-	  "catName":"anime"
-	  },
-	{
+    "catId":"1",
+    "catName":"anime",
     "id": "1",
     "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_601469743f4fc.jpg",
     "question": "Bu anime karakteri hangi animeden?",
@@ -16,6 +14,8 @@
     "correctAnswer": "2"
 	},
 	{
+    "catId":"1",
+    "catName":"anime",
     "id": "2",
     "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_60146a8b2b08b.jpg",
     "question": "Bu anime karakteri hangi animeden?",
@@ -26,6 +26,8 @@
     "correctAnswer": "3"
 	},
 	{
+    "catId":"1",
+    "catName":"anime",
     "id": "3",
     "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_60146b2c46307.jpg",
     "question": "Bu anime karakteri hangi animeden?",
@@ -36,6 +38,8 @@
     "correctAnswer": "4"
 	},
 	{
+    "catId":"1",
+    "catName":"anime",
     "id": "4",
     "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_60146ca596d14.jpg",
     "question": "Bu anime karakteri hangi animeden?",
@@ -46,6 +50,8 @@
     "correctAnswer": "1"
 	},
 	{
+    "catId":"1",
+    "catName":"anime",
     "id": "5",
     "image": "https://yeppuu.com/uploads/quiz/2021/01/img_60146f68b5b168-33965305-55608986.gif",
     "question": "Bu anime karakteri hangi animeden?",
@@ -56,6 +62,8 @@
     "correctAnswer": "3"
 	},
 	{
+    "catId":"1",
+    "catName":"anime",
     "id": "6",
     "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_60147e7c6c1b3.jpg",
     "question": "Bu anime karakteri hangi animeden?",
@@ -66,6 +74,8 @@
     "correctAnswer": "2"
 	},
 	{
+    "catId":"1",
+    "catName":"anime",
     "id": "7",
     "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_60147f0104842.jpg",
     "question": "Bu anime karakteri hangi animeden?",
@@ -76,6 +86,8 @@
     "correctAnswer": "4"
 	},
   {
+    "catId":"1",
+    "catName":"anime",
     "id": "8",
     "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_601480b773503.jpg",
     "question": "Bu anime karakteri hangi animeden?",
@@ -86,6 +98,8 @@
     "correctAnswer": "2"
 	},
    {
+    "catId":"1",
+    "catName":"anime",
     "id": "9",
     "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_6015c86aaa8fd.jpg",
     "question": "Bu anime karakteri hangi animeden?",
@@ -96,6 +110,8 @@
     "correctAnswer": "3"
 	},
    {
+    "catId":"1",
+    "catName":"anime",
     "id": "10",
     "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_601481a843184.jpg",
     "question": "Bu anime karakteri hangi animeden?",
