@@ -1,6 +1,10 @@
 {"prev_page":"https://raw.githubusercontent.com/rossomari/mari.github.io/main/character.json",
   "next_page":"https://raw.githubusercontent.com/rossomari/mari.github.io/main/deneme2.json",
   "data":[
+	  {
+	 "catId":"1",
+	  "catName":"anime"
+	  },
 {
     "id": "1",
     "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fbd5ddeaf4f0.jpg",
