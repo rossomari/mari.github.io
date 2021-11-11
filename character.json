@@ -1,8 +1,9 @@
 {"prev_page":"null",
   "next_page":"https://raw.githubusercontent.com/rossomari/mari.github.io/main/deneme.json",
   "data":[
-	  {
-	  "category":"1"
+	  "category":{
+	 "categoryId":"1",
+	  "categoryName":"anime"
 	  },
 	{
     "id": "1",
