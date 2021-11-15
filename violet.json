@@ -1,0 +1,105 @@
+{"prev_page":"https://raw.githubusercontent.com/rossomari/mari.github.io/main/deneme2.json",
+  "next_page":"https://raw.githubusercontent.com/rossomari/mari.github.io/main/kimino.json",
+  "data":[
+	{
+    "id": "1",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_600c6bf3bb904.jpg",
+    "question": "Violet Evergarden hangi kelimeyi bilmek (öğrenmek) istemektedir?",
+    "optionOne": "Acı",
+    "optionTwo": "Dostluk",
+    "optionTree": "Aile",
+    "optionFour": "Aşk",
+    "correctAnswer": "4"
+	},
+	{
+    "id": "2",
+    "image": "https://yeppuu.com/uploads/quiz/2020/11/image_750x_5fa97ad5255eb.jpg",
+    "question": "Violet Evergarden serisinden fotoğrafta gördüğünüz kişinin ismi nedir?",
+    "optionOne": "Gilbert Bougainvvillea",
+    "optionTwo": "Benedict Blue",
+    "optionTree": "Cattleya Baudelarie",
+    "optionFour": "Claudia Hodgins",
+    "correctAnswer": "1"
+	},
+	{
+    "id": "3",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_600c822d2c2f0.jpg",
+    "question": "Otomatik anı kuklaları ne iş yapar?",
+    "optionOne": "Mektupların kötü kişilerin eline geçmemesi için korurlar",
+    "optionTwo": "Müşterinin isteği doğrultusunda mektup yazar",
+    "optionTree": "Mektupları düzenler",
+    "optionFour": "Mektupların gerekli yere ulaşmalarını sağlar",
+    "correctAnswer": "2"
+	},
+	{
+    "id": "4",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/img_600c6e3f177487-79034296-40536382.gif",
+    "question": "Gifteki kişiye ailesinin verdiği bu çiçeğin adı nedir?",
+    "optionOne": "Tulipa (Lale)",
+    "optionTwo": "Lilicease (Zambak)",
+    "optionTree": "İris (Süsen Çiçeği)",
+    "optionFour": "Lotus (Nilüfer)",
+    "correctAnswer": "3"
+	},
+	{
+    "id": "5",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/img_600c82bad58b21-90618838-17662970.gif",
+    "question": "Otomatik anı kuklası ismi nereden gelmekte?",
+    "optionOne": "Çok hızlı yazabildikleri için",
+    "optionTwo": "Bir adamin roman yazari iken kör olan karisindan dolayi verilen bir isim",
+    "optionTree": "Duyguları çok iyi mektuba dökebildikleri için",
+    "optionFour": "Oyuncak bebek gibi giyindikleri için",
+    "correctAnswer": "2"
+	},
+	{
+    "id": "6",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/img_600c82ee4a8f82-28504187-93661145.gif",
+    "question": "Luculia marlborough un Violet'e yazdırdığı abisine olan mektupta ne yazmaktadır?",
+    "optionOne": "Abi hayatta kaldığın için çok mutluyum",
+    "optionTwo": "Abi bu zamana kadar hep beni sevdin teşekkür ederim",
+    "optionTree": "Abi seni ne kadar sevmesem de sen ailemizin bir parçasısın",
+    "optionFour": "Abi sana kaç zamandır söylemek istiyorum ama bir türlü başaramadım.İyi ki askerde savasmışsın ve iyi ki benim abimsin",
+    "correctAnswer": "1"
+	},
+	{
+    "id": "7",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_600c832f91619.jpg",
+    "question": "İyi bir ani kuklasının özellikleri nelerdir?",
+    "optionOne": "Verilen görevleri eksiksiz yapandır",
+    "optionTwo": "Çok hızlı daktilo kullanabilendir",
+    "optionTree": "İmla hatasız ve eksiksiz yazandır",
+    "optionFour": "İnsanların söyledikleri sözler arasından gerçek hisleri çekip çıkarandır",
+    "correctAnswer": "4"
+	},
+  {
+    "id": "8",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_601480b773503.jpg",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "My Hero Academia",
+    "optionTwo": "Hunter X Hunter",
+    "optionTree": "Bleach",
+    "optionFour": "High School DxD",
+    "correctAnswer": "2"
+	},
+   {
+    "id": "9",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/img_600c83646b3061-59269564-97596561.gif",
+    "question": "Violet ilk defa daktilo kullandığında neden kızdılar?",
+    "optionOne": "Elleri metalden olduğu için",
+    "optionTwo": "Daktilo kullanmasını bilmediği için",
+    "optionTree": "Yeterli duyguyu mektuplara veremediği için",
+    "optionFour": "Tuşlara çok gürültülü bastığı için",
+    "correctAnswer": "4"
+	},
+   {
+    "id": "10",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_600c8b207dec3.jpg",
+    "question": "Violet Claudia Hodgins'in verdiği peluş hayvanlardan hangisini seçmiştir?",
+    "optionOne": "Ayı",
+    "optionTwo": "Kedi",
+    "optionTree": "Tavşan",
+    "optionFour": "Köpek",
+    "correctAnswer": "4"
+	}
+      ]
+}
