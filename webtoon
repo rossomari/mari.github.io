@@ -1,0 +1,105 @@
+{"prev_page":"https://raw.githubusercontent.com/rossomari/mari.github.io/main/kimino.json",
+  "next_page":"null",
+  "data":[
+	{
+    "id": "1",
+    "image": "https://i.pinimg.com/736x/e8/6f/1b/e86f1b33238a18e1e9ee182b60fb7afd.jpg",
+    "question": "Bu görsel hangi webtoondan?",
+    "optionOne": "İnu to Kuzu",
+    "optionTwo": "My Hero Academia",
+    "optionTree": "Dr.Stone",
+    "optionFour": "Claymore",
+    "correctAnswer": "2"
+	},
+	{
+    "id": "2",
+    "image": "https://www.animeler.net/upload/media/entries/2017-01/19/540-1-588d04585e9cce908022417fe485564b.gif",
+    "question": "Bu gif hangi webtoondan?",
+    "optionOne": "Enen No Shoubotai",
+    "optionTwo": "Kakkou no İinazuke",
+    "optionTree": "Toilet Bound Hanako-kun",
+    "optionFour": "Noragami",
+    "correctAnswer": "4"
+	},
+	{
+    "id": "3",
+    "image": "https://i.ytimg.com/vi/nTCsD5qROjk/mqdefault.jpg",
+    "question": "Bu görsel hangi webtoondan?",
+    "optionOne": "Magic Emperor",
+    "optionTwo": "Hykings",
+    "optionTree": "Super Evolotuon",
+    "optionFour": "The King Of Bugs",
+    "correctAnswer": "4"
+	},
+	{
+    "id": "4",
+    "image": "https://c.tenor.com/guKgaKFwwP0AAAAC/home276-tonesky.gif",
+    "question": "Bu gif hangi webtoondan",
+    "optionOne": "Nano Machine",
+    "optionTwo": "Blug Player",
+    "optionTree": "Solo Leveling",
+    "optionFour": "Leveling With The Gods",
+    "correctAnswer": "3"
+	},
+	{
+    "id": "5",
+    "image": "https://i.ytimg.com/vi/puFZl4H-ktc/hqdefault.jpg",
+    "question": "Bu görsel hangi webtoondan?",
+    "optionOne": "The Beginning After The End",
+    "optionTwo": "Magic Emperor",
+    "optionTree": "Overgeared",
+    "optionFour": "The Great Mage Returns After 4000 Years",
+    "correctAnswer": "1"
+	},
+	{
+    "id": "6",
+    "image": "https://manhwatime.com/wp-content/uploads/2021/08/Legend-Of-The-Northern-Blade-1200x630.jpg",
+    "question": "Bu görsel hangi webtoondan?",
+    "optionOne": "Past Life Regressor",
+    "optionTwo": "Legend of the Northern Blade",
+    "optionTree": "Solo Spell Caster",
+    "optionFour": "Perrless Battle Spirit",
+    "correctAnswer": "2"
+	},
+	{
+    "id": "7",
+    "image": "https://i.ytimg.com/vi/Kfa3D2zDRtk/sddefault.jpg",
+    "question": "Bu görsel hangi webtoondan?",
+    "optionOne": "Slave B",
+    "optionTwo": "Flower War",
+    "optionTree": "Mercenary Enrollment",
+    "optionFour": "God Of Blackfield",
+    "correctAnswer": "4"
+	},
+  {
+    "id": "8",
+    "image": "https://i.pinimg.com/736x/08/a4/64/08a4643051fdad0555a425dae69ab0dd.jpg",
+    "question": "Bu görsel hangi webtoondan?",
+    "optionOne": "Trash of the Count’s Family",
+    "optionTwo": "I’m Not the Overlord!",
+    "optionTree": "I’m Destined For Greatness!",
+    "optionFour": "Seven Knights: Alkaid",
+    "correctAnswer": "1"
+	},
+   {
+    "id": "9",
+    "image": "https://i.ytimg.com/vi/mmVCIKxDtm0/maxresdefault.jpg",
+    "question": "Bu görsel hangi webtoondan?",
+    "optionOne": "I Stack Experience Through Reading Books",
+    "optionTwo": "Second Life Of A Gangster",
+    "optionTree": "Versatile Mage",
+    "optionFour": "Reverend Insanity",
+    "correctAnswer": "3"
+	},
+   {
+    "id": "10",
+    "image": "https://www.meganebuk.net/wp-content/uploads/2019/10/000.jpg",
+    "question": "Bu görsel hangi webtoondan?",
+    "optionOne": "Overgeared",
+    "optionTwo": "I Am The Sorcerer King",
+    "optionTree": "Hero Has Returned",
+    "optionFour": "I log in alone",
+    "correctAnswer": "2"
+	}
+      ]
+}
