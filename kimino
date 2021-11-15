@@ -1,0 +1,105 @@
+{"prev_page":"https://raw.githubusercontent.com/rossomari/mari.github.io/main/violet.json",
+  "next_page":"https://raw.githubusercontent.com/rossomari/mari.github.io/main/webtoon.json",
+  "data":[
+	{
+    "id": "1",
+    "image": "https://yeppuu.com/uploads/quiz/2021/02/image_750x_601736f5446d9.jpg",
+    "question": "Mitsuha'nın saçına taktığı ve sonra Go Taki'yi verdiği kurdelenin rengi nedir?",
+    "optionOne": "Turuncu",
+    "optionTwo": "Kırmızı",
+    "optionTree": "Mor",
+    "optionFour": "Mavi",
+    "correctAnswer": "2"
+	},
+	{
+    "id": "2",
+    "image": "https://yeppuu.com/uploads/quiz/2021/02/image_750x_60173030e23bf.jpg",
+    "question": "Filmde "lehçe" olarak adlandırılan hangi karakterin aksanı vardı?",
+    "optionOne": "Hiç birinde",
+    "optionTwo": "Taki",
+    "optionTree": "Mitsuha",
+    "optionFour": "Katsuhiko",
+    "correctAnswer": "3"
+	},
+	{
+    "id": "3",
+    "image": "https://yeppuu.com/uploads/quiz/2021/02/image_750x_60173229eddad.jpg",
+    "question": "Mitsuha'nın Taki'ye verdiği kırmızı kurdele neyi sembolize ediyordu?",
+    "optionOne": "Arkadaşlar arasındaki mesafeye",
+    "optionTwo": "Sonsuzluğu",
+    "optionTree": "Şansı",
+    "optionFour": "Kadere bağlanan, kader aşığı",
+    "correctAnswer": "4"
+	},
+	{
+    "id": "4",
+    "image": "https://yeppuu.com/uploads/quiz/2021/02/img_60173547e70464-81543398-74404353.gif",
+    "question": "Mitsuha’nın arkadaşları nerede yaşadıklarını anlatmak için sıklıkla hangi kelimeyi kullanıyordu?",
+    "optionOne": "Nimetler",
+    "optionTwo": "Cubuklar",
+    "optionTree": "Çiftlikte",
+    "optionFour": "Unutulmuş yer",
+    "correctAnswer": "1"
+	},
+	{
+    "id": "5",
+    "image": "https://yeppuu.com/uploads/quiz/2021/02/img_601736dab96f07-99310986-86349485.gif",
+    "question": "Mitsuha'nın yatağının yanında yerde hangi doldurulmuş hayvanı vardı?",
+    "optionOne": "Köpek",
+    "optionTwo": "Ayı",
+    "optionTree": "Panda",
+    "optionFour": "Kaplumbağa",
+    "correctAnswer": "2"
+	},
+	{
+    "id": "6",
+    "image": "https://yeppuu.com/uploads/quiz/2021/02/image_750x_6017384ac2e20.jpg",
+    "question": "Taki nerede çalışıyor?",
+    "optionOne": "Market",
+    "optionTwo": "Ailesinin yanında çalışıyor",
+    "optionTree": "Çalışmıyor",
+    "optionFour": "Restorant",
+    "correctAnswer": "4"
+	},
+	{
+    "id": "7",
+    "image": "https://yeppuu.com/uploads/quiz/2021/02/image_750x_601739b79e4e9.jpg",
+    "question": "Taki Mitsuha'nın eline ne yazmıştır?",
+    "optionOne": "Seni seviyorum",
+    "optionTwo": "Taki",
+    "optionTree": "Beni görüyor musun",
+    "optionFour": "Git kendini kurtar",
+    "correctAnswer": "1"
+	},
+  {
+    "id": "8",
+    "image": "https://yeppuu.com/uploads/quiz/2021/02/image_750x_60173d0507c2a.jpg",
+    "question": "Mitsuha'nın büyükannesinin bir şeyleri bağladığını söylediği ve zamanın geçişi ne demek?",
+    "optionOne": "Kırmızı kurdele",
+    "optionTwo": "Musubi",
+    "optionTree": "Dağlar",
+    "optionFour": "Kuchukiamisake",
+    "correctAnswer": "2"
+	},
+   {
+    "id": "9",
+    "image": "https://yeppuu.com/uploads/quiz/2021/02/image_750x_60173fd152399.jpg",
+    "question": "Kimi no Na wa 'nın esinlendiği gölün ismi?",
+    "optionOne": "Akan Gölü",
+    "optionTwo": "Şikotsu Gölü",
+    "optionTree": "Suwa Gölü",
+    "optionFour": "Saroma Gölü",
+    "correctAnswer": "3"
+	},
+   {
+    "id": "10",
+    "image": "https://yeppuu.com/uploads/quiz/2021/02/image_750x_6017384be65f9.jpg",
+    "question": "Taki ne olmak istiyor?",
+    "optionOne": "Mimar",
+    "optionTwo": "Öğretmen",
+    "optionTree": "Doktor",
+    "optionFour": "Ressam",
+    "correctAnswer": "1"
+	}
+      ]
+}
