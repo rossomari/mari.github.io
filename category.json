@@ -25,6 +25,7 @@
 }
 ]
 },
+ {
  "category" :{
 "catId": "2",
 "catName": "Manga",
@@ -34,8 +35,10 @@
 "title": "Bu görseller hangi webtoondan"
 }
 ]
+}
 },
- "category":{
+{ 
+"category":{
 "catId": "3",
 "catName": "Webbtoon",
 "tests": [
@@ -44,5 +47,6 @@
 "title": "Bu görseller hangi webtoondan"
 }
 ]
+}
 }
 }
