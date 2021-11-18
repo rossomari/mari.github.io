@@ -1,5 +1,5 @@
-{
-"category" :{
+[
+ {
 "catId": "1",
 "catName": "Anime",
 "tests": [
@@ -25,7 +25,7 @@
 }
 ]
 },
- "category" :{
+{
 "catId": "2",
 "catName": "Manga",
 "tests": [
@@ -35,7 +35,7 @@
 }
 ]
 },
-"category":{
+{
 "catId": "3",
 "catName": "Webbtoon",
 "tests": [
@@ -45,5 +45,4 @@
 }
 ]
 }
-}
-
+]
