@@ -1,5 +1,5 @@
- [
-  {
+{
+"category" :{
 "catId": "1",
 "catName": "Anime",
 "tests": [
@@ -24,7 +24,8 @@
 "title": "Kimi No Na Wa Bilgi Testi"
 }
 ]
-},{
+},
+ "category" :{
 "catId": "2",
 "catName": "Manga",
 "tests": [
@@ -33,7 +34,8 @@
 "title": "Bu görseller hangi webtoondan"
 }
 ]
-},{
+},
+ "category":{
 "catId": "3",
 "catName": "Webbtoon",
 "tests": [
@@ -43,4 +45,4 @@
 }
 ]
 }
-]
+}
