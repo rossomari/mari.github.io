@@ -4,22 +4,27 @@
 "catName": "Anime",
 "tests": [
 {
+ "id":"1",
 "image": "https://i.pinimg.com/originals/5a/fa/7b/5afa7b8aa9d5b256369566074fb8b8b1.jpg",
 "title": "Bu karakterler Hangi Animeden"
 },
 {
+  "id":"2",
 "image": "https://123images.co/movies/1232374144-cover-Gintama-The-Final-Chapter-Be-Forever-Yorozuya.jpg",
 "title": "Gintama Bilgi Testi"
 },
 {
+  "id":"3",
 "image": "https://www.altyazi.org/storage/2017/06/steinsgate-altyazi-org-01.jpg",
 "title": "Steins Gate Bilgi Testi"
 },
 {
+  "id":"4",
 "image": "https://animeoneri.com/wp-content/uploads/2021/04/violet-evergarden.jpg",
 "title": "Violet Evergarden Bilgi Testi"
 },
 {
+  "id":"5",
 "image": "https://i.ytimg.com/vi/0azz74j8kK4/hqdefault.jpg",
 "title": "Kimi No Na Wa Bilgi Testi"
 }
@@ -30,6 +35,7 @@
 "catName": "Manga",
 "tests": [
 {
+  "id":"1",
 "image": "https://pbs.twimg.com/media/EWJL4S6WkAYwafk.jpg",
 "title": "Bu görseller hangi webtoondan"
 }
