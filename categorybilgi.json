@@ -1,4 +1,4 @@
-[
+
  {
 "catId": "1",
 "catName": "Bilgi Testleri",
@@ -27,8 +27,6 @@
   "id":"5",
 "image": "https://i.ytimg.com/vi/0azz74j8kK4/hqdefault.jpg",
 "title": "Kimi No Na Wa Bilgi Testi"
-}
-]
 },
  {
   "id":"6",
@@ -36,4 +34,6 @@
 "title": "Bu görseller hangi webtoondan"
 }
  ]
+ }
+ 
 
