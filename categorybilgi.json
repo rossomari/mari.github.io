@@ -34,6 +34,16 @@
 "title": "Bu görseller hangi webtoondan"
 }
  ]
- }
+ },{
+"catId": "2",
+"catName": "Karakter Testleri",
+"tests": [
+{
+  "id":"1",
+"image": "https://pbs.twimg.com/media/EWJL4S6WkAYwafk.jpg",
+"title": "Bu görseller hangi webtoondan"
+}
+]
+}
  
  ]
