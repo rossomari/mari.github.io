@@ -33,7 +33,9 @@
 "image": "https://pbs.twimg.com/media/EWJL4S6WkAYwafk.jpg",
 "title": "Bu görseller hangi webtoondan"
 }
- ],
+ ]
+ },
+ {
   "catId": "2",
 "catName": "Karakter Testleri",
 "tests": [
@@ -62,7 +64,9 @@
 "image": "https://animehunch.com/wp-content/uploads/2021/12/TokyoGhoul.jpg",
 "title": "Hangi Tokyo Ghoul karakterisin"
 }
- ],
+ ]
+ },
+ {
 "catId": "3",
 "catName": "Bilgi/Karakter Testleri",
 "tests": [
