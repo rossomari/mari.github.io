@@ -4,10 +4,30 @@
 "catName": "Karakter Testleri",
 "tests": [
 {
-  "id":"1",
-"image": "https://pbs.twimg.com/media/EWJL4S6WkAYwafk.jpg",
-"title": "Bu görseller hangi webtoondan"
+ "id":"1",
+"image": "https://geekspin.co/wp-content/uploads/2019/06/hunter-x-hunter-758x397.jpg",
+"title": "Hangi HunterxHunter Karakterisin?"
+},
+{
+  "id":"2",
+"image": "https://www.siliconera.com/wp-content/uploads/2021/12/juju.jpg",
+"title": "Hangi Jujutsu Kaisen Karakterisin"
+},
+{
+  "id":"3",
+"image": "https://i.pinimg.com/736x/ca/2f/c4/ca2fc4df8c9212301cc8e4babbe052eb.jpg",
+"title": "Hangi Kimetsu No Yaiba karakterisin"
+},
+{
+  "id":"4",
+"image": "https://i.pinimg.com/originals/17/fb/0d/17fb0d1335295c4617951338f9895acf.jpg",
+"title": "Hangi Naruto karakterisin"
+},
+{
+  "id":"5",
+"image": "https://animehunch.com/wp-content/uploads/2021/12/TokyoGhoul.jpg",
+"title": "Hangi Tokyo Ghoul karakterisin"
 }
-]
+ ]
 }
 ]
