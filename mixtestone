@@ -1,0 +1,105 @@
+{"prev_page":"null",
+  "next_page":"null",
+  "data":[
+	{
+    "id": "1",
+    "image": "https://www.gojinshi.com/wp-content/uploads/2019/08/Anime-Like-If-Its-for-My-Daughter-Id-Even-Defeat-a-Demon-Lord-4.jpg",
+    "question": "Velet anlamına gelen sözcük hangisidir?",
+    "optionOne": "Oyaji",
+    "optionTwo": "Kodomo",
+    "optionTree": "Okaa-san",
+    "optionFour": " Gaki",
+    "correctAnswer": "4"
+	},
+	{
+    "id": "2",
+    "image": "https://i.pinimg.com/originals/1d/6f/89/1d6f89e258dc713294aec84e398b8cf3.gif",
+    "question": "Emrinde olduğunuz birine nasıl hitap edilir?",
+    "optionOne": "Senpai",
+    "optionTwo": "Sensei",
+    "optionTree": "Sama",
+    "optionFour": "Chan",
+    "correctAnswer": "3"
+	},
+	{
+    "id": "3",
+    "image": "https://krforum.kayiprihtim.com/original/3X/b/b/bb271d40a249a43d8de027b05e76201cfcfd798e.gif",
+    "question": "Can sıkıcı anlamına gelen sözcük hangisidir?",
+    "optionOne": "Mendokusai",
+    "optionTwo": "Shiranai",
+    "optionTree": "Shinanai",
+    "optionFour": "Kyakka",
+    "correctAnswer": "1"
+	},
+	{
+    "id": "4",
+    "image": "https://data.whicdn.com/images/221482380/original.gif",
+    "question": "Anlamıyorum anlamına gelen sözcük hangisidir?",
+    "optionOne": "Kakkoi",
+    "optionTwo": "Wakarimasen",
+    "optionTree": "Yurusenai",
+    "optionFour": "Ganbatte",
+    "correctAnswer": "2"
+	},
+	{
+    "id": "5",
+    "image": "https://i.pinimg.com/originals/1f/b9/0d/1fb90d9b1f52ed033237b2bb4a932ac5.gif",
+    "question": "Lezzetli anlamına gelen sözcük hangisidir?",
+    "optionOne": "Itadakimasu",
+    "optionTwo": "Asagohan",
+    "optionTree": "Oishi",
+    "optionFour": "Taberu",
+    "correctAnswer": "3"
+	},
+	{
+    "id": "6",
+    "image": "https://i.redd.it/i3w6xecll6g61.gif",
+    "question": "Görüşmeyeli uzun zaman oldu anlamına gelen cümle hangisidir?",
+    "optionOne": "Genki desu ka",
+    "optionTwo": "Oyasumi nasai",
+    "optionTree": "Ja mata",
+    "optionFour": "Hisashiburi",
+    "correctAnswer": "4"
+	},
+	{
+    "id": "7",
+    "image": "https://c.tenor.com/blCLnVdO3CgAAAAd/senko-sewayaki-kitsune-no-senko-san.gif",
+    "question": "Eve geldim diyen birine nasıl karşılık verilir?",
+    "optionOne": "Tadaima",
+    "optionTwo": "Okaeri nasai",
+    "optionTree": "Shitsurei shimasu",
+    "optionFour": "İttekimasu",
+    "correctAnswer": "2"
+	},
+  {
+    "id": "8",
+    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_601480b773503.jpg",
+    "question": "Bu anime karakteri hangi animeden?",
+    "optionOne": "My Hero Academia",
+    "optionTwo": "Hunter X Hunter",
+    "optionTree": "Bleach",
+    "optionFour": "High School DxD",
+    "correctAnswer": "2"
+	},
+   {
+    "id": "9",
+    "image": "https://thumbs.gfycat.com/SoggyBlindKiwi-size_restricted.gif",
+    "question": "Nerede anlamına gelen sözcük hangisidir?",
+    "optionOne": "Dou",
+    "optionTwo": "Nani",
+    "optionTree": "İtsu",
+    "optionFour": "Doko",
+    "correctAnswer": "4"
+	},
+   {
+    "id": "10",
+    "image": "https://c.tenor.com/SRpBlS74TZcAAAAC/anime-shocked.gif",
+    "question": "Kötü/berbat anlamına gelen sözcük hangisidir?",
+    "optionOne": "Yabai",
+    "optionTwo": "Sugoi",
+    "optionTree": "Kakkoi",
+    "optionFour": "Uso",
+    "correctAnswer": "1"
+	}
+      ]
+}
