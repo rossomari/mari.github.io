@@ -1,0 +1,105 @@
+{"prev_page":"null",
+  "next_page":"null",
+  "data":[
+	{
+    "id": "1",
+    "image": "https://i.pinimg.com/originals/58/2d/5c/582d5c92361971c6adf2572c4394dc68.gif",
+    "question": " Otsukaresama deshita ne anlama gelir?",
+    "optionOne": "Eve hoş geldin",
+    "optionTwo": "Sıkı çalıştığın için teşekkürler",
+    "optionTree": "İyi akşamlar",
+    "optionFour": " İyi gidiyorsun",
+    "correctAnswer": "2"
+	},
+	{
+    "id": "2",
+    "image": "https://i.pinimg.com/originals/52/cf/3c/52cf3cfb69e691c0feb3c3c3f61bb713.gif",
+    "question": "Havai fişek anlamına gelen sözcük hangisidir?",
+    "optionOne": "Hato",
+    "optionTwo": "Hake",
+    "optionTree": "Hanabi",
+    "optionFour": "Hana",
+    "correctAnswer": "3"
+	},
+	{
+    "id": "3",
+    "image": "https://i.kym-cdn.com/photos/images/original/001/104/749/2dc.gif",
+    "question": "Kız kardeş anlamına gelen sözcük hangisidir?",
+    "optionOne": "Otouto",
+    "optionTwo": "İmouto",
+    "optionTree": "Oniisan",
+    "optionFour": "Obasan",
+    "correctAnswer": "2"
+	},
+	{
+    "id": "4",
+    "image": "https://data.whicdn.com/images/221482380/original.gif",
+    "question": "Sus anlamına gelen sözcük hangisidir?",
+    "optionOne": "Damare",
+    "optionTwo": "Urusai",
+    "optionTree": "Yare yare",
+    "optionFour": "Tasukete",
+    "correctAnswer": "1"
+	},
+	{
+    "id": "5",
+    "image": "https://c.tenor.com/Z9Wmo7OTuZEAAAAC/onegai.gif",
+    "question": "Lütfen anlamına gelen sözcük hangisidir?",
+    "optionOne": "Yokatta",
+    "optionTwo": "Wakarimasen",
+    "optionTree": "Onegai shimasu",
+    "optionFour": "Masaka",
+    "correctAnswer": "3"
+	},
+	{
+    "id": "6",
+    "image": "https://i.redd.it/i3w6xecll6g61.gif",
+    "question": "Görüşmeyeli uzun zaman oldu anlamına gelen cümle hangisidir?",
+    "optionOne": "Genki desu ka",
+    "optionTwo": "Oyasumi nasai",
+    "optionTree": "Ja mata",
+    "optionFour": "Hisashiburi",
+    "correctAnswer": "4"
+	},
+	{
+    "id": "7",
+    "image": "https://shoottherookie.files.wordpress.com/2019/02/img_1404.gif",
+    "question": "Arigatou gozaimasu diyen birine nasıl karşılık verilir?",
+    "optionOne": "Douzo",
+    "optionTwo": "Sumimasen",
+    "optionTree": "Hayaku",
+    "optionFour": "Dou itashimashite",
+    "correctAnswer": "4"
+	},
+  {
+    "id": "8",
+    "image": "https://c.tenor.com/aB-xpStiqh8AAAAC/bleach-anime.gif",
+    "question": "Hayai ne anlama gelir?",
+    "optionOne": "Yavaş",
+    "optionTwo": "Sıcak",
+    "optionTree": "Hızlı",
+    "optionFour": "Soğuk",
+    "correctAnswer": "3"
+	},
+   {
+    "id": "9",
+    "image": "https://c.tenor.com/CKHz78IVi80AAAAC/%E0%B8%81%E0%B8%B4%E0%B8%99-hungry.giff",
+    "question": "Et anlamına gelen sözcük hangisidir?",
+    "optionOne": "Niku",
+    "optionTwo": "Mizu",
+    "optionTree": "Yasai",
+    "optionFour": "Gohan",
+    "correctAnswer": "1"
+	},
+   {
+    "id": "10",
+    "image": "https://thumbs.gfycat.com/BlueDecimalAardwolf-max-1mb.gif",
+    "question": "Yokatta ne anlama gelir?",
+    "optionOne": "Mutlu olmak",
+    "optionTwo": "İlk defa",
+    "optionTree": "Memnun olmak",
+    "optionFour": "Çok şükür",
+    "correctAnswer": "4"
+	}
+      ]
+}
