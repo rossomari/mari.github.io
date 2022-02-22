@@ -73,13 +73,13 @@
 	},
   {
     "id": "8",
-    "image": "https://yeppuu.com/uploads/quiz/2021/01/image_750x_601480b773503.jpg",
-    "question": "Bu anime karakteri hangi animeden?",
-    "optionOne": "My Hero Academia",
-    "optionTwo": "Hunter X Hunter",
-    "optionTree": "Bleach",
-    "optionFour": "High School DxD",
-    "correctAnswer": "2"
+    "image": "https://c.tenor.com/clvQFMT9_nQAAAAC/belle-anime.gif",
+    "question": "Mamoru anlamı nedir?",
+    "optionOne": "Korkuyorum",
+    "optionTwo": "İyi şanslar",
+    "optionTree": "Korumak, kollamak",
+    "optionFour": "Kaç",
+    "correctAnswer": "3"
 	},
    {
     "id": "9",
