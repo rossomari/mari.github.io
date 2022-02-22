@@ -9,7 +9,7 @@
     "optionTwo": "Hayatımdaki iblisleri sayarsak zaten bir iblis savaşçısıyım.",
     "optionTree": "Şimdi kan gövedeyi götürecek falan, uğraşamam ben onlarla.",
     "optionFour": "Ucunda para kazanaksam her türlü varım.",
-     "optionFive": "Sevap yazılıyor mu, sevap.",
+     "optionFive": "Sevap yazılıyor mu, sevap."
 },
 	{
     "id": "2",
@@ -19,7 +19,7 @@
     "optionTwo": "Sıkılmaktan sıkılırdım.",
     "optionTree": "Duvarlar üstüme üstüme gelir kafayı yerdim.",
     "optionFour": "Yalnız. İnsanlar olmazsa nasıl eğlenebilirim?.",
-     "optionFive": "Sevdiklerim yanımdaysa nerede nasıl olduğum önemli değil.",
+     "optionFive": "Sevdiklerim yanımdaysa nerede nasıl olduğum önemli değil."
 	},
 	{
     "id": "3",
@@ -29,7 +29,7 @@
     "optionTwo": "İmparatorluk yöneten bir iblis olmak isterdim.",
     "optionTree": "Eğlenceli bir iblis olmak isterdim.",
     "optionFour": "İnsanlara taş çıkartacak bir iblis olmak isterdim.",
-     "optionFive": "Sevimli bir iblis olmak isterdim.",
+     "optionFive": "Sevimli bir iblis olmak isterdim."
 	},
 	{
     "id": "4",
@@ -39,7 +39,7 @@
     "optionTwo": " Yoluma engel olduğu için öldürürüm.",
     "optionTree": "Konuşarak anlaşabiliriz.",
     "optionFour": "Biri gider biri gelir bunları düşünürsem savaşamam o yüzden öldürürdüm.",
-     "optionFive": "Bilmiyorum ya yanlış yolda giden bensem...",
+     "optionFive": "Bilmiyorum ya yanlış yolda giden bensem..."
 	},
 	{
     "id": "5",
@@ -49,7 +49,7 @@
     "optionTwo": "Gücünün farkında olmayan korkak.",
     "optionTree": "Dosta güven düşmana korku veren.",
     "optionFour": "Tecrübeli ve bilgili.",
-     "optionFive": "Acımasız.",
+     "optionFive": "Acımasız."
 	},
 	{
     "id": "6",
@@ -59,7 +59,7 @@
     "optionTwo": "Daha kolay ve hızlı taşımak için bir çözüm arardım.",
     "optionTree": "Kendiliğinden iyileşmesini beklerdim.",
     "optionFour": "Annemi çağırırdım.",
-     "optionFive": "Yapardım ama zorlanırdım.",
+     "optionFive": "Yapardım ama zorlanırdım."
 	},
 	{
     "id": "7",
@@ -69,7 +69,7 @@
     "optionTwo": "Yardım çağırmaya giderdim.",
     "optionTree": "Gitmek istesem de gidemezdim.",
     "optionFour": "Giderdim, sevdiklerim olmazsa savaşmanın bir anlamı olmaz.",
-     "optionFive": "Gitmezdim.",
+     "optionFive": "Gitmezdim."
 	},
   {
     "id": "8",
@@ -79,7 +79,7 @@
     "optionTwo": "Bu acıya katlanamam gider ben de bir iblis olurum.",
     "optionTree": "Onun iyiliği için öldürürüm.",
     "optionFour": "Ya bir yolunu bulup birlikte yaşarız ya da birlikte ölürüz.",
-     "optionFive": "Bilmiyorum, kararsızım.",
+     "optionFive": "Bilmiyorum, kararsızım."
 	},
    {
     "id": "9",
@@ -89,7 +89,7 @@
     "optionTwo": "İnsanlarla iç içe, müstakil bahçeli bir yerde",
     "optionTree": "Şehrin en güzel manzarasının göründüğü yerde.",
     "optionFour": "Şehrin merkezinde.",
-     "optionFive": "Doğanın içinde bilinmeyen bir yerde.",
+     "optionFive": "Doğanın içinde bilinmeyen bir yerde."
 	},
    {
     "id": "10",
@@ -99,7 +99,7 @@
     "optionTwo": "Ülkeyi yöneten insanladan biri olurdu.",
     "optionTree": "Ünlü biri olurdu.",
     "optionFour": "En iyi sporculardan biri olurdu.",
-     "optionFive": "Burası ilgimi çekmiyor anime dünyasından sevdiğim biri olurdu.",
+     "optionFive": "Burası ilgimi çekmiyor anime dünyasından sevdiğim biri olurdu."
 	}
 ]
 }
