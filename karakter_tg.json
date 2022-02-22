@@ -9,7 +9,7 @@
     "optionTwo": "Korumam gereken kişiler için kendimi geliştiririm",
     "optionTree": "Yardıma ihtiyacı olanlara yardım ederim",
     "optionFour": "Hobilerimi gerçekleştiririm",
-     "optionFive": "Olabilecek her şey için hazırda beklerim. Her an her şey olabilir.",
+     "optionFive": "Olabilecek her şey için hazırda beklerim. Her an her şey olabilir."
 },
 	{
     "id": "2",
@@ -19,7 +19,7 @@
     "optionTwo": "Dışarı çıkıp yeni yerler keşfederek",
     "optionTree": "Ailemle vakit geçirerek",
     "optionFour": "Örnek aldığım kişileri düşünerek",
-     "optionFive": "Sevdiğim şeyleri yaparak",
+     "optionFive": "Sevdiğim şeyleri yaparak"
 	},
 	{
     "id": "3",
@@ -29,7 +29,7 @@
     "optionTwo": "Kesinlikle yapamam",
     "optionTree": "Bilmiyorum",
     "optionFour": "Sağım solum belli olmaz",
-     "optionFive": "Neden olmasın",
+     "optionFive": "Neden olmasın"
 	},
 	{
     "id": "4",
@@ -39,7 +39,7 @@
     "optionTwo": "Unutmak",
     "optionTree": "Suçluluk duymak",
     "optionFour": "Güçsüz olmak",
-     "optionFive": "Yalnız olmak",
+     "optionFive": "Yalnız olmak"
 	},
 	{
     "id": "5",
@@ -49,7 +49,7 @@
     "optionTwo": "Fedakar ve sadık",
     "optionTree": "Acıdan zevk alan",
     "optionFour": "Yemeyi seven",
-     "optionFive": "Barışçıl",
+     "optionFive": "Barışçıl"
 	},
 	{
     "id": "6",
@@ -59,7 +59,7 @@
     "optionTwo": "Yaptığım hataları engellerdim.",
     "optionTree": "Zamanda geriye gitmek şu anın tekrarı olur o yüzden geriye değil ileriye gitmek isterdim.",
     "optionFour": "Rahat olduğum sürece geri gitmeye gerek yok.",
-     "optionFive": "Olmak  istediğim kişi olurdum.",
+     "optionFive": "Olmak  istediğim kişi olurdum."
 	},
 	{
     "id": "7",
@@ -69,7 +69,7 @@
     "optionTwo": "Kalbini kırmamak için bir seferlik alttan alırım.",
     "optionTree": "Beni kızdırmak isteyeceğini sanmam",
     "optionFour": "Herkes beni kızdırıyor zaten.",
-     "optionFive": "Bir daha beni kızdırmaması gerektiğini anladığından emin olurum",
+     "optionFive": "Bir daha beni kızdırmaması gerektiğini anladığından emin olurum"
 	},
   {
     "id": "8",
@@ -79,7 +79,7 @@
     "optionTwo": "Ben de beklenmedik bir durum sergilerim.",
     "optionTree": "Yapmam gerekeni yaparım.",
     "optionFour": "Bilmiyorum.",
-     "optionFive": "Beklediğim durum olsa şaşarım zaten.",
+     "optionFive": "Beklediğim durum olsa şaşarım zaten."
 	},
    {
     "id": "9",
@@ -89,7 +89,7 @@
     "optionTwo": "Engelleri kaldırırım.",
     "optionTree": "Engelsiz olana geçerim.",
     "optionFour": "Genelde ben engel olurum.",
-     "optionFive": "Yapılması gerekeni enine boyuna düşünür en doğru gelen kararı uygularım.",
+     "optionFive": "Yapılması gerekeni enine boyuna düşünür en doğru gelen kararı uygularım."
 	},
    {
     "id": "10",
@@ -99,7 +99,7 @@
     "optionTwo": "Hayal kurmak beni keyiflendiriyor.",
     "optionTree": "İşimin verdiği keyfi kimse vermiyor.",
     "optionFour": "Keyif alacak hayatım mı var?",
-     "optionFive": "En keyif aldığım an uyuduğum an.",
+     "optionFive": "En keyif aldığım an uyuduğum an."
 	}
 ]
 }
