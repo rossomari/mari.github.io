@@ -1,0 +1,18 @@
+ {
+"catId": "3",
+"catName": "Bilgi/Karakter Testleri",
+"tests": [
+{
+ "id":"21",
+ "name":"mix",
+"image": "https://i.pinimg.com/736x/13/f9/52/13f95253ede4c1c9051bfbe70c0d3353.jpg",
+"title": "Japonca Bilgine Göre Hangi Karaktesin? Test 1"
+},
+{
+  "id":"22",
+ "name":"mix",
+"image": "https://i1.sndcdn.com/artworks-000127034788-eefiia-t500x500.jpg",
+"title": "Japonca Bilgine Göre Hangi Karaktesin? Test 1"
+} 
+ ]
+ }
