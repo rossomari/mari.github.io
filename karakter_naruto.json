@@ -9,7 +9,7 @@
     "optionTwo": "Temari",
     "optionTree": "Yamato",
     "optionFour": "Sasori",
-     "optionFive": "Kushina",
+     "optionFive": "Kushina"
 },
 	{
     "id": "2",
@@ -19,7 +19,7 @@
     "optionTwo": "Aile",
     "optionTree": "Dostluk",
     "optionFour": "İntikam",
-     "optionFive": "Kendim",
+     "optionFive": "Kendim"
 	},
 	{
     "id": "3",
@@ -29,7 +29,7 @@
     "optionTwo": "Sabırsızım",
     "optionTree": "Kabayım",
     "optionFour": "Sonunu düşünmem",
-     "optionFive": "Unuturum",
+     "optionFive": "Unuturum"
 	},
 	{
     "id": "4",
@@ -39,7 +39,7 @@
     "optionTwo": "Suşi",
     "optionTree": "Yaki Udon",
     "optionFour": "Köri",
-     "optionFive": "Takoyaki",
+     "optionFive": "Takoyaki"
 	},
 	{
     "id": "5",
@@ -49,7 +49,7 @@
     "optionTwo": "Üstün strateji",
     "optionTree": "İleri görüşlülük",
     "optionFour": "Dahilik",
-     "optionFive": "Ölümsüzlük",
+     "optionFive": "Ölümsüzlük"
 	},
 	{
     "id": "6",
@@ -59,7 +59,7 @@
     "optionTwo": "Rüzgar Ülkesi- Sunagakure no Sato",
     "optionTree": "Ateş Ülkesi- konohagakure no sato",
     "optionFour": "Yıldırrım Ülkesi- kumogakure no sato",
-     "optionFive": "Su Ülkesi- Kirigakure no Sato",
+     "optionFive": "Su Ülkesi- Kirigakure no Sato"
 	},
 	{
     "id": "7",
@@ -69,7 +69,7 @@
     "optionTwo": "Yılan",
     "optionTree": "Kurbağa",
     "optionFour": "Kağıt",
-     "optionFive": "Metal",
+     "optionFive": "Metal"
 	},
   {
     "id": "8",
@@ -79,7 +79,7 @@
     "optionTwo": "Kafamı dinlerim",
     "optionTree": "Kitap okurum",
     "optionFour": "Arkadaşlarımla gezerim",
-     "optionFive": "Dizi-film izlerim",
+     "optionFive": "Dizi-film izlerim"
 	},
    {
     "id": "9",
@@ -89,7 +89,7 @@
     "optionTwo": "Turuncu",
     "optionTree": "Gri",
     "optionFour": "Siyah",
-     "optionFive": "Kırmızı",
+     "optionFive": "Kırmızı"
 	},
    {
     "id": "10",
@@ -99,7 +99,7 @@
     "optionTwo": "Sasuke Uchiha",
     "optionTree": "Obito Uchiha",
     "optionFour": "Sarada Uchiha",
-     "optionFive": "Fugaku Uchiha",
+     "optionFive": "Fugaku Uchiha"
 	}
 ]
 }
