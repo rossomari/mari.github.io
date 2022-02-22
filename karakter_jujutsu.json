@@ -9,7 +9,7 @@
     "optionTwo": "Ön yargılarımı ortadan kaldırmak isterdim.",
     "optionTree": "Karşıma onu anlamamı isteyen biri olduğunda onun fikirleri düşünebilmeyi isterdim",
     "optionFour": "Fikirlere kurşun işlemez.",
-     "optionFive": "İleri görüşe sahip fikirlerim olsun isterdim.",
+     "optionFive": "İleri görüşe sahip fikirlerim olsun isterdim."
 },
 	{
     "id": "2",
@@ -19,7 +19,7 @@
     "optionTwo": "Jujutsu: Fikri ve manevi erdemlere sahip olmak üzerine kuruludur.",
     "optionTree": "Kung Fu: Kendini ve tüm canlıları tanıyıp sevmek olan bir mücadele sanatıdır.",
     "optionFour": "Judo: Felsefesinin temelinde sevgi ve hoşgörü vardır.",
-     "optionFive": "Tekvando: İyilik, dürüstlük ve erdem.",
+     "optionFive": "Tekvando: İyilik, dürüstlük ve erdem."
 	},
 	{
     "id": "3",
@@ -29,7 +29,7 @@
     "optionTwo": "Ben demek çevre demek..",
     "optionTree": "Tutarlarsa tutarlıyım, tutmazlarsa tutarsızım.",
     "optionFour": "Nerde çokluk orada ben.",
-     "optionFive": "Ben, keyfim ve kahyası harikayız.",
+     "optionFive": "Ben, keyfim ve kahyası harikayız."
 	},
 	{
     "id": "4",
@@ -39,7 +39,7 @@
     "optionTwo": "Düşünceleri.",
     "optionTree": "İnsanları.",
     "optionFour": "Zenginleri.",
-     "optionFive": "Anıları.",
+     "optionFive": "Anıları."
 	},
 	{
     "id": "5",
@@ -49,7 +49,7 @@
     "optionTwo": "Kimseye güvenmemek. Güven veren oldu da biz mi almadık canım.",
     "optionTree": "Her şeyi kendi başına halletmeye çalışmak",
     "optionFour": "Mükemmel olmak. Ne ararsan var.",
-     "optionFive": "Sabırsız. Olacaksa hemen olsun bekleyemem ben, zamanım kıymetli.",
+     "optionFive": "Sabırsız. Olacaksa hemen olsun bekleyemem ben, zamanım kıymetli."
 	},
 	{
     "id": "6",
@@ -59,7 +59,7 @@
     "optionTwo": "Korku laneti",
     "optionTree": "Bağlanma laneti",
     "optionFour": "Acımasızlık laneti",
-     "optionFive": "Şüphe laneti",
+     "optionFive": "Şüphe laneti"
 	},
 	{
     "id": "7",
@@ -69,7 +69,7 @@
     "optionTwo": "Eğlenebilmek için..",
     "optionTree": "Bir varmış bir yokmuş şakası yapabilmek için.",
     "optionFour": "Gizlenmek yerine gösterilmeyi tercih ederim.",
-     "optionFive": "Gizlice yolculuk yapabilmek için.",
+     "optionFive": "Gizlice yolculuk yapabilmek için."
 	},
   {
     "id": "8",
@@ -79,7 +79,7 @@
     "optionTwo": "Bana da öğretmesi için kullanırım.",
     "optionTree": "Yalan söyleyen insanları anlamak için.",
     "optionFour": "Kaybettiğim eşyaları bulması için.",
-     "optionFive": "Hata yaptığımda uyarması için.",
+     "optionFive": "Hata yaptığımda uyarması için."
 	},
    {
     "id": "9",
@@ -89,7 +89,7 @@
     "optionTwo": "Kimsenin beni sevmediği bir hayat",
     "optionTree": "Bunu düşünmeme gerek yok zaten öyle bir hayata sahibim.",
     "optionFour": "Bütün iyilerin yok olduğu bir hayat.",
-     "optionFive": "İstediğim hiçbir şeye sahip olamadığım bir hayat.",
+     "optionFive": "İstediğim hiçbir şeye sahip olamadığım bir hayat."
 	},
    {
     "id": "10",
@@ -99,7 +99,7 @@
     "optionTwo": "Dobralığıyla herkesi kaçıran lanetli bir varlık olurdu.",
     "optionTree": "Burnu beladan çıkmayan lanetli varlık olurdu.",
     "optionFour": "Bendeki bu tatlılıkla tüm kalpleri fetheden lanetli bir varlık olurdu.",
-     "optionFive": "Lanetli bir lanet varlık olurdu.",
+     "optionFive": "Lanetli bir lanet varlık olurdu."
 	}
 ]
 }
